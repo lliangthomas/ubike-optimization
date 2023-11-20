@@ -1,4 +1,4 @@
-# Mathematical Research into Optimizing the Number of U-Bikes (City Bikes)
+# U-Bikes (City Bikes) Optimization
 <p align="center">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/103551562/172152615-688734c6-d7f2-42cd-b1c0-6d087462c9f2.png">
 </p>
